@@ -1,4 +1,4 @@
-# Wikipedia_scraperp roject
+# Wikipedia_scraper project
 
 ## Table of Contents
 
